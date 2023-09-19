@@ -1,4 +1,4 @@
-StartUp
+#StartUp
 application: Virtual interior designer.
 name: “NewSpace”.
 field: a branch of design aimed at the interior of premises in order to ensure convenience and aesthetically pleasing interaction between the environment and people.
